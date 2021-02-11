@@ -1,8 +1,8 @@
 {
   "name": "node-ts-utils",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Useful Node/TS Functions",
+  "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,8 +13,13 @@
     "type": "git",
     "url": "git+https://github.com/guyroberts21/node-ts-utils.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "Read",
+    "Write",
+    "Utils",
+    "Node"
+  ],
+  "author": "guyroberts21",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/guyroberts21/node-ts-utils/issues"
