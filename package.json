@@ -1,6 +1,6 @@
 {
   "name": "node-ts-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Useful Node/TS Functions",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
